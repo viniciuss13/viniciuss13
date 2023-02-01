@@ -29,9 +29,9 @@
   <a href="mailto:vinicius.beta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br/>
 
-<p align="center">
+<h3 align="center">
   Tecnologias que eu uso no meu dia a dia
-</p>
+</h3>
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
