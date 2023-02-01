@@ -15,7 +15,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuss13&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuss13&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-</div>
+</div></br>
 
 
 <div align="center" valign="top"><br>
@@ -27,11 +27,10 @@
   <a href="https://www.instagram.com/viniciussweber/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusweber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:vinicius.beta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><br/>
-
+</div>
 <h3 align="center">
   Tecnologias que eu uso no meu dia a dia
 </h3>
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+</div>
