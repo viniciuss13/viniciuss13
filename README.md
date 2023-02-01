@@ -37,5 +37,5 @@
 </div><br/>
 
 <p align="center">
-  Aapaixonado por tecnologia, estudante de ciências da computação e por mudar a vida das pessoas através da programação.
+  Apaixonado por tecnologia, estudante de ciências da computação e por mudar a vida das pessoas através da programação.
 </p>
