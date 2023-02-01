@@ -27,11 +27,12 @@
   <a href="https://www.instagram.com/viniciussweber/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusweber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:vinicius.beta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+</div><br/>
 
-### Tecnologias que eu uso no meu dia a dia
-
-<div style="display: inline_block"><br/>
+<p align="center">
+  Tecnologias que eu uso no meu dia a dia
+</p>
+<div align="center" style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
