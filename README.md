@@ -23,6 +23,7 @@
   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
   <img align="center" alt="python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="python" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" alt="python" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />        
 </div><br>
 
 <div align="center">
