@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/viniciuss13">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=viniciuss13&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuss13&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuss13&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuss13&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div></br>
 
