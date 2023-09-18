@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor RPA , estudante de ciências da computação e gosto muito de compartilhar meu conhecimento e aprendizado 😉️
+    Sou Desenvolvedor RPA , estudante de Ciências da Computação e gosto muito de compartilhar meu conhecimento e aprendizado 😉️
   </p>
 </div>
 
